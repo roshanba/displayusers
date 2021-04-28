@@ -2,7 +2,7 @@ import React from 'react';
 
 
 const UserButton=({id})=>{
-    console.log(id);
+    
     
     return (
     
